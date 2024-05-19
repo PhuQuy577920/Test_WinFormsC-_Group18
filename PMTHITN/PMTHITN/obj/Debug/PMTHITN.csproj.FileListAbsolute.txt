@@ -1,0 +1,351 @@
+C:\Users\Admin\source\repos\PMTHITN\PMTHITN\bin\Debug\PMTHITN.exe.config
+C:\Users\Admin\source\repos\PMTHITN\PMTHITN\bin\Debug\PMTHITN.exe
+C:\Users\Admin\source\repos\PMTHITN\PMTHITN\bin\Debug\PMTHITN.pdb
+C:\Users\Admin\source\repos\PMTHITN\PMTHITN\obj\Debug\PMTHITN.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\PMTHITN\PMTHITN\obj\Debug\PMTHITN.frmlogin.resources
+C:\Users\Admin\source\repos\PMTHITN\PMTHITN\obj\Debug\PMTHITN.Properties.Resources.resources
+C:\Users\Admin\source\repos\PMTHITN\PMTHITN\obj\Debug\PMTHITN.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\PMTHITN\PMTHITN\obj\Debug\PMTHITN.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\PMTHITN\PMTHITN\obj\Debug\PMTHITN.exe
+C:\Users\Admin\source\repos\PMTHITN\PMTHITN\obj\Debug\PMTHITN.pdb
+C:\Users\Admin\source\repos\PMTHITN\PMTHITN\obj\Debug\PMTHITN.frmMainSV.resources
+C:\Users\Admin\source\repos\PMTHITN\PMTHITN\obj\Debug\PMTHITN.frmbaithi.resources
+C:\Users\Admin\source\repos\PMTHITN\PMTHITN\obj\Debug\PMTHITN.frmgv.resources
+C:\Users\Admin\source\repos\PMTHITN\PMTHITN\obj\Debug\PMTHITN.Thông_tin.resources
+C:\Users\ASUS\Downloads\PMTHITN\PMTHITN\PMTHITN\bin\Debug\PMTHITN.exe.config
+C:\Users\ASUS\Downloads\PMTHITN\PMTHITN\PMTHITN\bin\Debug\PMTHITN.exe
+C:\Users\ASUS\Downloads\PMTHITN\PMTHITN\PMTHITN\bin\Debug\PMTHITN.pdb
+C:\Users\ASUS\Downloads\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.frmbaithi.resources
+C:\Users\ASUS\Downloads\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.frmgv.resources
+C:\Users\ASUS\Downloads\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.frmlogin.resources
+C:\Users\ASUS\Downloads\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.Properties.Resources.resources
+C:\Users\ASUS\Downloads\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.exe
+C:\Users\ASUS\Downloads\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.pdb
+C:\Users\ASUS\Downloads\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.frminfo.resources
+D:\PMTHITN\PMTHITN\PMTHITN\bin\Debug\PMTHITN.exe.config
+D:\PMTHITN\PMTHITN\PMTHITN\bin\Debug\PMTHITN.exe
+D:\PMTHITN\PMTHITN\PMTHITN\bin\Debug\PMTHITN.pdb
+D:\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.csprojAssemblyReference.cache
+D:\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.frmbaithi.resources
+D:\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.frmgv.resources
+D:\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.frminfo.resources
+D:\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.frmlogin.resources
+D:\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.Properties.Resources.resources
+D:\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.csproj.GenerateResource.cache
+D:\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.csproj.CoreCompileInputs.cache
+D:\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.exe
+D:\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.pdb
+D:\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.Shared.dll
+D:\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\PMTHITN\PMTHITN\PMTHITN\bin\Debug\stdole.dll
+D:\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.csproj.CopyComplete
+C:\Users\ASUS\Desktop\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\bin\Debug\PMTHITN.exe.config
+C:\Users\ASUS\Desktop\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\bin\Debug\PMTHITN.exe
+C:\Users\ASUS\Desktop\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\bin\Debug\PMTHITN.pdb
+C:\Users\ASUS\Desktop\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ASUS\Desktop\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ASUS\Desktop\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ASUS\Desktop\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ASUS\Desktop\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ASUS\Desktop\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ASUS\Desktop\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ASUS\Desktop\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ASUS\Desktop\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ASUS\Desktop\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ASUS\Desktop\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ASUS\Desktop\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ASUS\Desktop\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\bin\Debug\stdole.dll
+C:\Users\ASUS\Desktop\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.frmbaithi.resources
+C:\Users\ASUS\Desktop\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.frmgv.resources
+C:\Users\ASUS\Desktop\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.frminfo.resources
+C:\Users\ASUS\Desktop\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.frmlogin.resources
+C:\Users\ASUS\Desktop\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.Properties.Resources.resources
+C:\Users\ASUS\Desktop\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.csproj.CopyComplete
+C:\Users\ASUS\Desktop\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.exe
+C:\Users\ASUS\Desktop\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.pdb
+C:\Users\ASUS\Desktop\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\bin\Debug\PMTHITN.exe.config
+C:\Users\ASUS\Desktop\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\bin\Debug\PMTHITN.exe
+C:\Users\ASUS\Desktop\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\bin\Debug\PMTHITN.pdb
+C:\Users\ASUS\Desktop\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ASUS\Desktop\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ASUS\Desktop\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ASUS\Desktop\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ASUS\Desktop\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ASUS\Desktop\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ASUS\Desktop\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ASUS\Desktop\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ASUS\Desktop\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ASUS\Desktop\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ASUS\Desktop\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ASUS\Desktop\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\bin\Debug\stdole.dll
+C:\Users\ASUS\Desktop\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.frmbaithi.resources
+C:\Users\ASUS\Desktop\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.frmgv.resources
+C:\Users\ASUS\Desktop\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.frminfo.resources
+C:\Users\ASUS\Desktop\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.frmlogin.resources
+C:\Users\ASUS\Desktop\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.Properties.Resources.resources
+C:\Users\ASUS\Desktop\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.csproj.CopyComplete
+C:\Users\ASUS\Desktop\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.exe
+C:\Users\ASUS\Desktop\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.pdb
+C:\Users\ASUS\Desktop\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\ASUS\Desktop\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ASUS\Desktop\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\ASUS\Desktop\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.rptlopprv.resources
+C:\Users\ASUS\Desktop\PMTHITN new\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\bin\Debug\PMTHITN.exe.config
+C:\Users\ASUS\Desktop\PMTHITN new\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\bin\Debug\PMTHITN.exe
+C:\Users\ASUS\Desktop\PMTHITN new\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\bin\Debug\PMTHITN.pdb
+C:\Users\ASUS\Desktop\PMTHITN new\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\ASUS\Desktop\PMTHITN new\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ASUS\Desktop\PMTHITN new\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ASUS\Desktop\PMTHITN new\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ASUS\Desktop\PMTHITN new\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ASUS\Desktop\PMTHITN new\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\ASUS\Desktop\PMTHITN new\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ASUS\Desktop\PMTHITN new\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ASUS\Desktop\PMTHITN new\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ASUS\Desktop\PMTHITN new\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ASUS\Desktop\PMTHITN new\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ASUS\Desktop\PMTHITN new\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ASUS\Desktop\PMTHITN new\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ASUS\Desktop\PMTHITN new\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ASUS\Desktop\PMTHITN new\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ASUS\Desktop\PMTHITN new\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ASUS\Desktop\PMTHITN new\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\bin\Debug\stdole.dll
+C:\Users\ASUS\Desktop\PMTHITN new\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ASUS\Desktop\PMTHITN new\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\PMTHITN new\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.frmbaithi.resources
+C:\Users\ASUS\Desktop\PMTHITN new\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.frmgv.resources
+C:\Users\ASUS\Desktop\PMTHITN new\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.frminfo.resources
+C:\Users\ASUS\Desktop\PMTHITN new\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.frmlogin.resources
+C:\Users\ASUS\Desktop\PMTHITN new\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.Properties.Resources.resources
+C:\Users\ASUS\Desktop\PMTHITN new\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.rptlopprv.resources
+C:\Users\ASUS\Desktop\PMTHITN new\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\PMTHITN new\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\PMTHITN new\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.csproj.CopyComplete
+C:\Users\ASUS\Desktop\PMTHITN new\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.exe
+C:\Users\ASUS\Desktop\PMTHITN new\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.pdb
+C:\Users\ASUS\Desktop\PMTHITN new\PMTHITN (1)\PMTHITN (1)\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.rptmonprv.resources
+D:\dow\PMTHITN\PMTHITN\PMTHITN\PMTHITN\bin\Debug\PMTHITN.exe.config
+D:\dow\PMTHITN\PMTHITN\PMTHITN\PMTHITN\bin\Debug\PMTHITN.exe
+D:\dow\PMTHITN\PMTHITN\PMTHITN\PMTHITN\bin\Debug\PMTHITN.pdb
+D:\dow\PMTHITN\PMTHITN\PMTHITN\PMTHITN\bin\Debug\System.Data.SqlClient.dll
+D:\dow\PMTHITN\PMTHITN\PMTHITN\PMTHITN\bin\Debug\ShockwaveFlashObjects.dll
+D:\dow\PMTHITN\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\dow\PMTHITN\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\dow\PMTHITN\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\dow\PMTHITN\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\dow\PMTHITN\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\dow\PMTHITN\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\dow\PMTHITN\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\dow\PMTHITN\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\dow\PMTHITN\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\dow\PMTHITN\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\dow\PMTHITN\PMTHITN\PMTHITN\PMTHITN\bin\Debug\stdole.dll
+D:\dow\PMTHITN\PMTHITN\PMTHITN\PMTHITN\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\dow\PMTHITN\PMTHITN\PMTHITN\PMTHITN\bin\Debug\System.Data.SqlClient.xml
+D:\dow\PMTHITN\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.csproj.AssemblyReference.cache
+D:\dow\PMTHITN\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.frmbaithi.resources
+D:\dow\PMTHITN\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.frmgv.resources
+D:\dow\PMTHITN\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.frminfo.resources
+D:\dow\PMTHITN\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.frmlogin.resources
+D:\dow\PMTHITN\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.Properties.Resources.resources
+D:\dow\PMTHITN\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.rptlopprv.resources
+D:\dow\PMTHITN\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.rptmonprv.resources
+D:\dow\PMTHITN\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.csproj.GenerateResource.cache
+D:\dow\PMTHITN\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.csproj.CoreCompileInputs.cache
+D:\dow\PMTHITN\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.csproj.CopyComplete
+D:\dow\PMTHITN\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.exe
+D:\dow\PMTHITN\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.pdb
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\PMTHITN.exe.config
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\PMTHITN.exe
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\PMTHITN.pdb
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\System.Data.SqlClient.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\System.Data.SqlClient.xml
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.csproj.AssemblyReference.cache
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.frmbaithi.resources
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.frmgv.resources
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.frminfo.resources
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.frmlogin.resources
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.Properties.Resources.resources
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.rptlopprv.resources
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.rptmonprv.resources
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.csproj.GenerateResource.cache
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.csproj.CoreCompileInputs.cache
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.csproj.CopyComplete
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.exe
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\obj\Debug\PMTHITN.pdb
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\Castle.Core.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\Moq.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\Castle.Core.xml
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\Moq.xml
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\nunit.framework.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\nunit.framework.legacy.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\nunit.framework.xml
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\nunit.framework.legacy.xml
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\xunit.abstractions.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\xunit.runner.reporters.net452.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\xunit.runner.utility.net452.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\Microsoft.TestPlatform.CoreUtilities.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\System.Collections.Immutable.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\System.Reflection.Metadata.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\xunit.assert.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\xunit.core.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\xunit.execution.desktop.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\System.Collections.Immutable.xml
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\System.Reflection.Metadata.xml
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\xunit.assert.xml
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\xunit.core.xml
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\xunit.execution.desktop.xml
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\FsCheck.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\FsCheck.Xunit.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\FSharp.Core.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\FsCheck.xml
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\FsCheck.Xunit.xml
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\FSharp.Core.xml
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\Microsoft.ApplicationInsights.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\Microsoft.Testing.Extensions.Telemetry.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\Microsoft.Testing.Extensions.TrxReport.Abstractions.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\Microsoft.Testing.Extensions.VSTestBridge.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\Microsoft.Testing.Platform.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\Microsoft.Testing.Platform.MSBuild.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\System.Buffers.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\System.Memory.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\System.Numerics.Vectors.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\Microsoft.ApplicationInsights.pdb
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\Microsoft.ApplicationInsights.xml
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\Microsoft.Testing.Extensions.Telemetry.xml
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\Microsoft.Testing.Extensions.TrxReport.Abstractions.xml
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\Microsoft.Testing.Extensions.VSTestBridge.xml
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\Microsoft.Testing.Platform.xml
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\Microsoft.Testing.Platform.MSBuild.xml
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\System.Buffers.xml
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\System.Memory.xml
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\System.Numerics.Vectors.xml
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\cs\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\de\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\es\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\fr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\it\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\ja\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\ko\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\pl\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\pt-BR\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\ru\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\tr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\zh-Hans\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\zh-Hant\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\cs\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\de\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\es\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\fr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\it\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\ja\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\ko\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\pl\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\pt-BR\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\ru\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\tr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\zh-Hans\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\zh-Hant\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\cs\Microsoft.Testing.Platform.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\de\Microsoft.Testing.Platform.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\es\Microsoft.Testing.Platform.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\fr\Microsoft.Testing.Platform.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\it\Microsoft.Testing.Platform.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\ja\Microsoft.Testing.Platform.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\ko\Microsoft.Testing.Platform.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\pl\Microsoft.Testing.Platform.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\pt-BR\Microsoft.Testing.Platform.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\ru\Microsoft.Testing.Platform.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\tr\Microsoft.Testing.Platform.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\zh-Hans\Microsoft.Testing.Platform.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\zh-Hant\Microsoft.Testing.Platform.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\cs\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\de\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\es\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\fr\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\it\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\ja\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\ko\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\pl\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\pt-BR\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\ru\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\tr\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\zh-Hans\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\zh-Hant\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\dowload\PMTHITN-20240513T180349Z-001\PMTHITN\PMTHITN\PMTHITN\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
